@@ -5,3 +5,5 @@ _Cliff Walking_ é um problema simples mas, ao mesmo tempo, muito interessante p
 Esse é um ótimo problema, que testa a convergência e a rapidez de métodos de Aprendizado por Reforço, como é o caso do _Q-Leaarning_.
 
 ![cliff](https://github.com/pedrohmjf/cliff_walking/assets/126244260/c4bd4048-56b9-4b7d-a586-d988f8ff9c3c)
+
+O episódio termina quando o agente alcança o onjetivo. Sempre que ele cai no abismo, retorna para onde começou.
