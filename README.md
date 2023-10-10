@@ -6,4 +6,4 @@ Esse é um ótimo problema, que testa a convergência e a rapidez de métodos de
 
 ![cliff](https://github.com/pedrohmjf/cliff_walking/assets/126244260/c4bd4048-56b9-4b7d-a586-d988f8ff9c3c)
 
-O episódio termina quando o agente alcança o onjetivo. Sempre que ele cai no abismo, retorna para onde começou.
+O episódio termina quando o agente alcança o objetivo. Sempre que ele cai no abismo, retorna para onde começou.
